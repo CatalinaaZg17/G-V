@@ -1,140 +1,140 @@
 [
    {
       "id": 1,
-      "name": "Alejandro Gómez",
-      "username": "Agomez",
-      "email": "alejandro.gomez@example.com",
+      "name": "Mariana López",
+      "username": "Mlopez",
+      "email": "mariana.lopez@example.com",
       "address": {
-         "street": "Avenida Reforma",
-         "suite": "Torre 2, Piso 5",
+         "street": "Paseo de la Reforma",
+         "suite": "Torre 1, Piso 8",
          "city": "Ciudad de México",
-         "zipcode": "11000",
+         "zipcode": "11560",
          "geo": {
-            "lat": "19.4326",
-            "lng": "-99.1332"
+            "lat": "19.4270",
+            "lng": "-99.1677"
          }
       },
-      "phone": "+52 55 7654 3210",
-      "website": "alejandrogomez.com",
+      "phone": "+52 55 1234 5678",
+      "website": "marianalopez.com",
       "company": {
-         "name": "Gómez Tech",
-         "catchPhrase": "Innovando el futuro",
-         "bs": "desarrollo de software avanzado"
+         "name": "López Tech",
+         "catchPhrase": "Innovación sin límites",
+         "bs": "desarrollo de software y consultoría"
       }
    },
    {
       "id": 2,
-      "name": "Lucía Martínez",
-      "username": "Lmartinez",
-      "email": "lucia.martinez@example.com",
+      "name": "Andrés Fernández",
+      "username": "Afernandez",
+      "email": "andres.fernandez@example.com",
       "address": {
-         "street": "Calle Mayor",
-         "suite": "Edificio Central, Piso 3",
+         "street": "Gran Vía",
+         "suite": "Edificio Torre Blanca, Piso 4",
          "city": "Madrid",
-         "zipcode": "28013",
+         "zipcode": "28004",
          "geo": {
-            "lat": "40.4168",
-            "lng": "-3.7038"
+            "lat": "40.4200",
+            "lng": "-3.7050"
          }
       },
-      "phone": "+34 91 234 5678",
-      "website": "luciamartinez.net",
+      "phone": "+34 91 876 5432",
+      "website": "andresfernandez.es",
       "company": {
-         "name": "Martínez Solutions",
-         "catchPhrase": "Estrategias que funcionan",
-         "bs": "consultoría empresarial integral"
+         "name": "Fernández Solutions",
+         "catchPhrase": "Estrategias digitales eficientes",
+         "bs": "consultoría y transformación digital"
       }
    },
    {
       "id": 3,
-      "name": "Fernando López",
-      "username": "Flopez",
-      "email": "fernando.lopez@example.com",
+      "name": "Valeria Rojas",
+      "username": "Vrojas",
+      "email": "valeria.rojas@example.com",
       "address": {
-         "street": "Avenida del Libertador",
-         "suite": "Torre B, Oficina 102",
+         "street": "Avenida Santa Fe",
+         "suite": "Oficina 301",
          "city": "Buenos Aires",
-         "zipcode": "C1426",
+         "zipcode": "C1001",
          "geo": {
-            "lat": "-34.6037",
-            "lng": "-58.3816"
+            "lat": "-34.5990",
+            "lng": "-58.3815"
          }
       },
-      "phone": "+54 11 8765 4321",
-      "website": "fernandolopez.org",
+      "phone": "+54 11 5678 1234",
+      "website": "valeriarojas.com",
       "company": {
-         "name": "López & Asociados",
-         "catchPhrase": "Innovación y compromiso",
-         "bs": "servicios financieros de vanguardia"
+         "name": "Rojas Consulting",
+         "catchPhrase": "Compromiso con la excelencia",
+         "bs": "soluciones empresariales innovadoras"
       }
    },
    {
       "id": 4,
-      "name": "Sofía Ramírez",
-      "username": "Sramirez",
-      "email": "sofia.ramirez@example.com",
+      "name": "Carlos Medina",
+      "username": "Cmedina",
+      "email": "carlos.medina@example.com",
       "address": {
-         "street": "Carrera 10",
-         "suite": "Apto 405",
+         "street": "Carrera 15",
+         "suite": "Apto 702",
          "city": "Bogotá",
-         "zipcode": "110231",
+         "zipcode": "110221",
          "geo": {
-            "lat": "4.7110",
-            "lng": "-74.0721"
+            "lat": "4.7109",
+            "lng": "-74.0718"
          }
       },
-      "phone": "+57 1 345 6789",
-      "website": "sofiaramirez.co",
+      "phone": "+57 1 678 9102",
+      "website": "carlosmedina.co",
       "company": {
-         "name": "Ramírez Innovaciones",
-         "catchPhrase": "Transformando ideas en realidades",
-         "bs": "diseño y tecnología creativa"
+         "name": "Medina Innovaciones",
+         "catchPhrase": "Creando el futuro hoy",
+         "bs": "diseño tecnológico y desarrollo digital"
       }
    },
    {
       "id": 5,
-      "name": "Javier Torres",
-      "username": "Jtorres",
-      "email": "javier.torres@example.com",
+      "name": "Gabriela Silva",
+      "username": "Gsilva",
+      "email": "gabriela.silva@example.com",
       "address": {
-         "street": "Rua Augusta",
-         "suite": "Edificio Plaza, Piso 7",
+         "street": "Rua Oscar Freire",
+         "suite": "Piso 5, Departamento 10",
          "city": "São Paulo",
-         "zipcode": "01043-000",
+         "zipcode": "01426-001",
          "geo": {
-            "lat": "-23.5505",
-            "lng": "-46.6333"
+            "lat": "-23.5617",
+            "lng": "-46.6554"
          }
       },
-      "phone": "+55 11 99876 5432",
-      "website": "javiertorres.com",
+      "phone": "+55 11 98765 4321",
+      "website": "gabrielasilva.com",
       "company": {
-         "name": "Torres Digital",
-         "catchPhrase": "Soluciones inteligentes para un mundo digital",
-         "bs": "marketing y desarrollo web"
+         "name": "Silva Digital",
+         "catchPhrase": "Soluciones creativas para el mundo digital",
+         "bs": "marketing, branding y desarrollo web"
       }
    },
    {
       "id": 6,
-      "name": "Camila Herrera",
-      "username": "Cherrera",
-      "email": "camila.herrera@example.com",
+      "name": "Diego Navarro",
+      "username": "Dnavarro",
+      "email": "diego.navarro@example.com",
       "address": {
-         "street": "Calle Las Orquídeas",
-         "suite": "Residencial Vista Verde, Apto 12A",
+         "street": "Calle Los Tulipanes",
+         "suite": "Residencial Vista Azul, Apto 20B",
          "city": "Lima",
-         "zipcode": "15074",
+         "zipcode": "15073",
          "geo": {
-            "lat": "-12.0464",
-            "lng": "-77.0428"
+            "lat": "-12.0453",
+            "lng": "-77.0301"
          }
       },
-      "phone": "+51 1 456 7890",
-      "website": "camilaherrera.pe",
+      "phone": "+51 1 567 8901",
+      "website": "diegonavarro.pe",
       "company": {
-         "name": "Herrera Consulting",
-         "catchPhrase": "Estrategias innovadoras para el éxito",
-         "bs": "asesoría en negocios y tecnología"
+         "name": "Navarro Consulting",
+         "catchPhrase": "Estrategias innovadoras para negocios",
+         "bs": "asesoría en gestión y tecnología"
       }
    }
 ]
