@@ -1,0 +1,140 @@
+[
+   {
+      "id": 1,
+      "name": "Alejandro Gómez",
+      "username": "Agomez",
+      "email": "alejandro.gomez@example.com",
+      "address": {
+         "street": "Avenida Reforma",
+         "suite": "Torre 2, Piso 5",
+         "city": "Ciudad de México",
+         "zipcode": "11000",
+         "geo": {
+            "lat": "19.4326",
+            "lng": "-99.1332"
+         }
+      },
+      "phone": "+52 55 7654 3210",
+      "website": "alejandrogomez.com",
+      "company": {
+         "name": "Gómez Tech",
+         "catchPhrase": "Innovando el futuro",
+         "bs": "desarrollo de software avanzado"
+      }
+   },
+   {
+      "id": 2,
+      "name": "Lucía Martínez",
+      "username": "Lmartinez",
+      "email": "lucia.martinez@example.com",
+      "address": {
+         "street": "Calle Mayor",
+         "suite": "Edificio Central, Piso 3",
+         "city": "Madrid",
+         "zipcode": "28013",
+         "geo": {
+            "lat": "40.4168",
+            "lng": "-3.7038"
+         }
+      },
+      "phone": "+34 91 234 5678",
+      "website": "luciamartinez.net",
+      "company": {
+         "name": "Martínez Solutions",
+         "catchPhrase": "Estrategias que funcionan",
+         "bs": "consultoría empresarial integral"
+      }
+   },
+   {
+      "id": 3,
+      "name": "Fernando López",
+      "username": "Flopez",
+      "email": "fernando.lopez@example.com",
+      "address": {
+         "street": "Avenida del Libertador",
+         "suite": "Torre B, Oficina 102",
+         "city": "Buenos Aires",
+         "zipcode": "C1426",
+         "geo": {
+            "lat": "-34.6037",
+            "lng": "-58.3816"
+         }
+      },
+      "phone": "+54 11 8765 4321",
+      "website": "fernandolopez.org",
+      "company": {
+         "name": "López & Asociados",
+         "catchPhrase": "Innovación y compromiso",
+         "bs": "servicios financieros de vanguardia"
+      }
+   },
+   {
+      "id": 4,
+      "name": "Sofía Ramírez",
+      "username": "Sramirez",
+      "email": "sofia.ramirez@example.com",
+      "address": {
+         "street": "Carrera 10",
+         "suite": "Apto 405",
+         "city": "Bogotá",
+         "zipcode": "110231",
+         "geo": {
+            "lat": "4.7110",
+            "lng": "-74.0721"
+         }
+      },
+      "phone": "+57 1 345 6789",
+      "website": "sofiaramirez.co",
+      "company": {
+         "name": "Ramírez Innovaciones",
+         "catchPhrase": "Transformando ideas en realidades",
+         "bs": "diseño y tecnología creativa"
+      }
+   },
+   {
+      "id": 5,
+      "name": "Javier Torres",
+      "username": "Jtorres",
+      "email": "javier.torres@example.com",
+      "address": {
+         "street": "Rua Augusta",
+         "suite": "Edificio Plaza, Piso 7",
+         "city": "São Paulo",
+         "zipcode": "01043-000",
+         "geo": {
+            "lat": "-23.5505",
+            "lng": "-46.6333"
+         }
+      },
+      "phone": "+55 11 99876 5432",
+      "website": "javiertorres.com",
+      "company": {
+         "name": "Torres Digital",
+         "catchPhrase": "Soluciones inteligentes para un mundo digital",
+         "bs": "marketing y desarrollo web"
+      }
+   },
+   {
+      "id": 6,
+      "name": "Camila Herrera",
+      "username": "Cherrera",
+      "email": "camila.herrera@example.com",
+      "address": {
+         "street": "Calle Las Orquídeas",
+         "suite": "Residencial Vista Verde, Apto 12A",
+         "city": "Lima",
+         "zipcode": "15074",
+         "geo": {
+            "lat": "-12.0464",
+            "lng": "-77.0428"
+         }
+      },
+      "phone": "+51 1 456 7890",
+      "website": "camilaherrera.pe",
+      "company": {
+         "name": "Herrera Consulting",
+         "catchPhrase": "Estrategias innovadoras para el éxito",
+         "bs": "asesoría en negocios y tecnología"
+      }
+   }
+]
